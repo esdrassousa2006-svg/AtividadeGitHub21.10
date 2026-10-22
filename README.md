@@ -22,3 +22,17 @@ Desenvolver minhas habilidades em programação, controle de versões e colabora
 
 ---
  Projeto desenvolvido para fins acadêmicos.
+
+ ## Minha experiência com Git e GitHub
+
+Nesta atividade, aprendi a utilizar o Git para
+controlar as versões de um projeto.
+
+Também aprendi a criar branches, realizar commits
+e trabalhar com diferentes versões de arquivos.
+
+### O que achei da atividade?
+
+Foi uma experiência importante para entender
+como os desenvolvedores organizam seus projetos
+e trabalham em equipe.
