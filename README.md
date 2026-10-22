@@ -1,4 +1,4 @@
-# exemplo-git-parte2
+# Projeto atualizado pela branch principal main
 
 # Meu Projeto de Git e GitHub
 
